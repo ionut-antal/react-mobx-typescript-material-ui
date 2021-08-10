@@ -1,0 +1,13 @@
+.app {
+  padding: 30px;
+  background-image: url(./image/tt.png);
+  object-fit: cover;
+  height:100vh;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
